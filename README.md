@@ -29,4 +29,4 @@
 
 <span>⚡PROFILE STATUS⚡</span>
 <br/><br/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-roshitha&hide=prs,contribs&show_icons=true&theme=nightowl)   <br/><br/>
-![](https://komarev.com/ghpvc/?username=dev-roshitha&color=green)
+![](https://komarev.com/ghpvc/?username=dev-deo&color=green)
