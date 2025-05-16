@@ -1,5 +1,5 @@
 <h1 align="center">Greeting to Developers' Paradise <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">💻</h1>
-<p align="center"> <img alt="coding" align="center" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> </p>
+
 <h2>My Tech Stack</h2><br/>
 
 <blockquote> 
@@ -28,5 +28,11 @@
 <br/>
 
 <span>⚡PROFILE STATUS⚡</span>
-<br/><br/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-deo&hide=prs,contribs&show_icons=true&theme=nightowl)   <br/><br/>
+
+![Isuru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Deo&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Deo&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Deo&layout=compact&theme=tokyonight)  
+
 ![](https://komarev.com/ghpvc/?username=dev-deo&color=green)
