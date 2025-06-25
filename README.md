@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Isuru Deo
+## Hey there! 👋 I'm Isuru
 
 #### 💻 Software Engineer | Full Stack Developer from 🇱🇰 Sri Lanka
 
